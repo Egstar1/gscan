@@ -11,7 +11,7 @@ An Information gathering tools.综合信息收集工具
 工具发布到github上，可以使用`git clone`下载到本地
 
 ```
-git clone httpS://github.com/
+git clone https://github.com/Egstar1/gscan.git
 ```
 
 ###### 3、使用
