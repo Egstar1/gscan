@@ -28,6 +28,4 @@ pip install -r requirement.txt
 python3 Gscan.py
 ```
 
-![image-20230311001318824](.\images\image-20230311001318824.png)
-
 ![image-20230311001318824](https://user-images.githubusercontent.com/71976870/224372177-befa9ebd-19bf-4688-9ac3-2085021a4c55.png)
