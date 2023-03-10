@@ -1,0 +1,21 @@
+POST /ComQueryService/comQuerywswjcx.do?createtime= HTTP/1.1
+Host: 219.133.105.91:8091
+Cookie: _vsite=guojia; JSESSIONID=306CC52C4FD86FC6ADB881F828C8B013; _vsite=guojia
+Content-Length: 35
+Sec-Ch-Ua: "Chromium";v="110", "Not A(Brand";v="24", "Google Chrome";v="110"
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://219.133.105.91:8091
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://219.133.105.91:8091/wrwjxxthMenu.menu?path=wrwjcdownload.wswjcx.jsp&funcID=%E6%A3%80%E6%B5%8B%E9%A1%B9%E6%9F%A5%E7%9C%8B&userID=USR000127140220
+Accept-Encoding: gzip, deflate
+Accept-Language: zh,en-US;q=0.9,en;q=0.8,zh-CN;q=0.7
+Connection: close
+
+usid=USR000127140220&page=1&rows=10

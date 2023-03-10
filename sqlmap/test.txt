@@ -1,0 +1,16 @@
+GET /jeecg-boot-infecQn/sys/dataLog/list?_t=1676538092&dataTable=jeecg_demo&dataId=8a8ab0b246dc81120146dc81860f016f&column=createTime*&order=desc&field=id,,dataTable,dataId,dataVersion,dataContent,createBy&pageNo=1&pageSize=10 HTTP/1.1
+Host: 10.76.96.210:8085
+Sec-Ch-Ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+X-Access-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzY1NjYzNTksInVzZXJuYW1lIjoiYWRtaW4ifQ.EcajS2ari7uX_txm7up905vLMCBZLzc4QbPxNOxG_zw
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://10.76.96.210:8085/infecQn/sys/dataLog-list
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: close
+
