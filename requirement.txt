@@ -1,0 +1,12 @@
+re
+requests
+randint
+BeautifulSoup
+whois
+urllib3
+logging
+queue
+threading
+time
+socket
+scapy
